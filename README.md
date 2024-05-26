@@ -17,7 +17,8 @@ This project is a simple registration form created using HTML and CSS. It demons
 
 ## Screenshots
 
-![Registration Form Screenshot](/path/to/screenshot.png)
+![image](https://github.com/aanthonytomas/Registration-Form/assets/92261282/7badd552-5122-4477-9629-ff957e086e8e)
+
 
 ## Usage
 
