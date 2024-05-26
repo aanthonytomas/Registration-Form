@@ -18,7 +18,7 @@ This project is a simple registration form created using HTML and CSS. It demons
 ## Screenshots
 
 ![image](https://github.com/aanthonytomas/Registration-Form/assets/92261282/7badd552-5122-4477-9629-ff957e086e8e)
-
+![image](https://github.com/aanthonytomas/Registration-Form/assets/92261282/d2c4afbb-76a3-442c-9d62-eadd11e569ed)
 
 ## Usage
 
